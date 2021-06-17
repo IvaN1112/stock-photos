@@ -159,7 +159,7 @@ Stock Photos
   font-size: 1.5rem;
   background: transparent;
   color: var(--clr-grey-5);
-  border-bottom: 3px solid var(--clr-grey-5);
+  border-bottom: 6px solid var(--clr-grey-5);
 }
 .form-input {
   color: var(--clr-grey-3);
